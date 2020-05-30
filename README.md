@@ -1,1 +1,2 @@
-# Source codes from the handbook "Introduction to big data. Theoretical and practical aspects.".
+# Source codes from the handbook:
+"Introduction to big data. Theoretical and practical aspects.".
